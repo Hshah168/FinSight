@@ -1,0 +1,601 @@
+Date,YearMonth,Year,Month,Quarter,AccountCode,AccountName,Department,BudgetAmount,AccountType,AccountCategory
+2023-01-01,2023-01,2023,1,1,4000,Product Sales Revenue,Sales,506907.22,Revenue,Revenue
+2023-01-01,2023-01,2023,1,1,4100,Service Revenue,Sales,351382.15,Revenue,Revenue
+2023-01-01,2023-01,2023,1,1,4200,Subscription Revenue,Sales,201666.81,Revenue,Revenue
+2023-01-01,2023-01,2023,1,1,4900,Other Revenue,Finance,58223.56,Revenue,Revenue
+2023-01-01,2023-01,2023,1,1,5000,Cost of Products Sold,Operations,288125.82,COGS,COGS
+2023-01-01,2023-01,2023,1,1,5100,Direct Labor,Operations,136627.47,COGS,COGS
+2023-01-01,2023-01,2023,1,1,5200,Manufacturing Overhead,Operations,46247.0,COGS,COGS
+2023-01-01,2023-01,2023,1,1,6000,Salaries - Sales,Sales,153202.34,OpEx,Sales & Marketing
+2023-01-01,2023-01,2023,1,1,6010,Commissions,Sales,100002.69,OpEx,Sales & Marketing
+2023-01-01,2023-01,2023,1,1,6020,Marketing Expenses,Marketing,115429.46,OpEx,Sales & Marketing
+2023-01-01,2023-01,2023,1,1,6030,Advertising,Marketing,96372.22,OpEx,Sales & Marketing
+2023-01-01,2023-01,2023,1,1,6100,Salaries - Admin,Finance,127923.95,OpEx,G&A
+2023-01-01,2023-01,2023,1,1,6110,Office Rent,Finance,49979.4,OpEx,G&A
+2023-01-01,2023-01,2023,1,1,6120,Utilities,Finance,9142.98,OpEx,G&A
+2023-01-01,2023-01,2023,1,1,6130,Office Supplies,Finance,6675.18,OpEx,G&A
+2023-01-01,2023-01,2023,1,1,6140,Insurance,Finance,12799.89,OpEx,G&A
+2023-01-01,2023-01,2023,1,1,6150,Professional Fees,Finance,23951.29,OpEx,G&A
+2023-01-01,2023-01,2023,1,1,6200,IT Software & Licenses,IT,42207.7,OpEx,Technology
+2023-01-01,2023-01,2023,1,1,6210,IT Salaries,IT,140301.15,OpEx,Technology
+2023-01-01,2023-01,2023,1,1,6220,Cloud Services,IT,34527.94,OpEx,Technology
+2023-01-01,2023-01,2023,1,1,6300,R&D Salaries,R&D,122152.16,OpEx,R&D
+2023-01-01,2023-01,2023,1,1,6310,R&D Materials,R&D,40493.28,OpEx,R&D
+2023-01-01,2023-01,2023,1,1,6400,Travel & Entertainment,Sales,24179.6,OpEx,G&A
+2023-01-01,2023-01,2023,1,1,6410,Training & Development,HR,17112.7,OpEx,G&A
+2023-01-01,2023-01,2023,1,1,6420,Depreciation,Finance,25774.47,OpEx,G&A
+2023-02-01,2023-02,2023,2,1,4000,Product Sales Revenue,Sales,524819.0,Revenue,Revenue
+2023-02-01,2023-02,2023,2,1,4100,Service Revenue,Sales,368505.49,Revenue,Revenue
+2023-02-01,2023-02,2023,2,1,4200,Subscription Revenue,Sales,196631.87,Revenue,Revenue
+2023-02-01,2023-02,2023,2,1,4900,Other Revenue,Finance,50654.49,Revenue,Revenue
+2023-02-01,2023-02,2023,2,1,5000,Cost of Products Sold,Operations,277609.02,COGS,COGS
+2023-02-01,2023-02,2023,2,1,5100,Direct Labor,Operations,151014.7,COGS,COGS
+2023-02-01,2023-02,2023,2,1,5200,Manufacturing Overhead,Operations,45673.88,COGS,COGS
+2023-02-01,2023-02,2023,2,1,6000,Salaries - Sales,Sales,171334.58,OpEx,Sales & Marketing
+2023-02-01,2023-02,2023,2,1,6010,Commissions,Sales,95333.98,OpEx,Sales & Marketing
+2023-02-01,2023-02,2023,2,1,6020,Marketing Expenses,Marketing,119142.42,OpEx,Sales & Marketing
+2023-02-01,2023-02,2023,2,1,6030,Advertising,Marketing,82800.33,OpEx,Sales & Marketing
+2023-02-01,2023-02,2023,2,1,6100,Salaries - Admin,Finance,130893.45,OpEx,G&A
+2023-02-01,2023-02,2023,2,1,6110,Office Rent,Finance,51700.87,OpEx,G&A
+2023-02-01,2023-02,2023,2,1,6120,Utilities,Finance,8765.29,OpEx,G&A
+2023-02-01,2023-02,2023,2,1,6130,Office Supplies,Finance,5307.4,OpEx,G&A
+2023-02-01,2023-02,2023,2,1,6140,Insurance,Finance,13167.53,OpEx,G&A
+2023-02-01,2023-02,2023,2,1,6150,Professional Fees,Finance,28500.42,OpEx,G&A
+2023-02-01,2023-02,2023,2,1,6200,IT Software & Licenses,IT,52240.78,OpEx,Technology
+2023-02-01,2023-02,2023,2,1,6210,IT Salaries,IT,105152.21,OpEx,Technology
+2023-02-01,2023-02,2023,2,1,6220,Cloud Services,IT,31399.1,OpEx,Technology
+2023-02-01,2023-02,2023,2,1,6300,R&D Salaries,R&D,111417.03,OpEx,R&D
+2023-02-01,2023-02,2023,2,1,6310,R&D Materials,R&D,37140.05,OpEx,R&D
+2023-02-01,2023-02,2023,2,1,6400,Travel & Entertainment,Sales,24318.74,OpEx,G&A
+2023-02-01,2023-02,2023,2,1,6410,Training & Development,HR,15617.95,OpEx,G&A
+2023-02-01,2023-02,2023,2,1,6420,Depreciation,Finance,24477.9,OpEx,G&A
+2023-03-01,2023-03,2023,3,1,4000,Product Sales Revenue,Sales,639083.83,Revenue,Revenue
+2023-03-01,2023-03,2023,3,1,4100,Service Revenue,Sales,368920.56,Revenue,Revenue
+2023-03-01,2023-03,2023,3,1,4200,Subscription Revenue,Sales,207940.36,Revenue,Revenue
+2023-03-01,2023-03,2023,3,1,4900,Other Revenue,Finance,50495.93,Revenue,Revenue
+2023-03-01,2023-03,2023,3,1,5000,Cost of Products Sold,Operations,300477.72,COGS,COGS
+2023-03-01,2023-03,2023,3,1,5100,Direct Labor,Operations,165548.85,COGS,COGS
+2023-03-01,2023-03,2023,3,1,5200,Manufacturing Overhead,Operations,53364.51,COGS,COGS
+2023-03-01,2023-03,2023,3,1,6000,Salaries - Sales,Sales,175953.1,OpEx,Sales & Marketing
+2023-03-01,2023-03,2023,3,1,6010,Commissions,Sales,85510.98,OpEx,Sales & Marketing
+2023-03-01,2023-03,2023,3,1,6020,Marketing Expenses,Marketing,98748.44,OpEx,Sales & Marketing
+2023-03-01,2023-03,2023,3,1,6030,Advertising,Marketing,101094.72,OpEx,Sales & Marketing
+2023-03-01,2023-03,2023,3,1,6100,Salaries - Admin,Finance,138761.36,OpEx,G&A
+2023-03-01,2023-03,2023,3,1,6110,Office Rent,Finance,52018.44,OpEx,G&A
+2023-03-01,2023-03,2023,3,1,6120,Utilities,Finance,8719.29,OpEx,G&A
+2023-03-01,2023-03,2023,3,1,6130,Office Supplies,Finance,5877.65,OpEx,G&A
+2023-03-01,2023-03,2023,3,1,6140,Insurance,Finance,13297.43,OpEx,G&A
+2023-03-01,2023-03,2023,3,1,6150,Professional Fees,Finance,23881.57,OpEx,G&A
+2023-03-01,2023-03,2023,3,1,6200,IT Software & Licenses,IT,48814.64,OpEx,Technology
+2023-03-01,2023-03,2023,3,1,6210,IT Salaries,IT,93578.41,OpEx,Technology
+2023-03-01,2023-03,2023,3,1,6220,Cloud Services,IT,47154.99,OpEx,Technology
+2023-03-01,2023-03,2023,3,1,6300,R&D Salaries,R&D,123632.15,OpEx,R&D
+2023-03-01,2023-03,2023,3,1,6310,R&D Materials,R&D,34588.23,OpEx,R&D
+2023-03-01,2023-03,2023,3,1,6400,Travel & Entertainment,Sales,20640.6,OpEx,G&A
+2023-03-01,2023-03,2023,3,1,6410,Training & Development,HR,16172.71,OpEx,G&A
+2023-03-01,2023-03,2023,3,1,6420,Depreciation,Finance,25285.47,OpEx,G&A
+2023-04-01,2023-04,2023,4,2,4000,Product Sales Revenue,Sales,667673.84,Revenue,Revenue
+2023-04-01,2023-04,2023,4,2,4100,Service Revenue,Sales,392312.81,Revenue,Revenue
+2023-04-01,2023-04,2023,4,2,4200,Subscription Revenue,Sales,209751.47,Revenue,Revenue
+2023-04-01,2023-04,2023,4,2,4900,Other Revenue,Finance,55946.06,Revenue,Revenue
+2023-04-01,2023-04,2023,4,2,5000,Cost of Products Sold,Operations,313381.21,COGS,COGS
+2023-04-01,2023-04,2023,4,2,5100,Direct Labor,Operations,162397.37,COGS,COGS
+2023-04-01,2023-04,2023,4,2,5200,Manufacturing Overhead,Operations,52004.41,COGS,COGS
+2023-04-01,2023-04,2023,4,2,6000,Salaries - Sales,Sales,181064.43,OpEx,Sales & Marketing
+2023-04-01,2023-04,2023,4,2,6010,Commissions,Sales,92966.27,OpEx,Sales & Marketing
+2023-04-01,2023-04,2023,4,2,6020,Marketing Expenses,Marketing,106786.45,OpEx,Sales & Marketing
+2023-04-01,2023-04,2023,4,2,6030,Advertising,Marketing,84649.28,OpEx,Sales & Marketing
+2023-04-01,2023-04,2023,4,2,6100,Salaries - Admin,Finance,212835.89,OpEx,G&A
+2023-04-01,2023-04,2023,4,2,6110,Office Rent,Finance,66704.98,OpEx,G&A
+2023-04-01,2023-04,2023,4,2,6120,Utilities,Finance,13052.45,OpEx,G&A
+2023-04-01,2023-04,2023,4,2,6130,Office Supplies,Finance,5112.05,OpEx,G&A
+2023-04-01,2023-04,2023,4,2,6140,Insurance,Finance,12581.46,OpEx,G&A
+2023-04-01,2023-04,2023,4,2,6150,Professional Fees,Finance,25169.21,OpEx,G&A
+2023-04-01,2023-04,2023,4,2,6200,IT Software & Licenses,IT,40495.32,OpEx,Technology
+2023-04-01,2023-04,2023,4,2,6210,IT Salaries,IT,106195.72,OpEx,Technology
+2023-04-01,2023-04,2023,4,2,6220,Cloud Services,IT,37266.33,OpEx,Technology
+2023-04-01,2023-04,2023,4,2,6300,R&D Salaries,R&D,128430.64,OpEx,R&D
+2023-04-01,2023-04,2023,4,2,6310,R&D Materials,R&D,41377.53,OpEx,R&D
+2023-04-01,2023-04,2023,4,2,6400,Travel & Entertainment,Sales,22000.51,OpEx,G&A
+2023-04-01,2023-04,2023,4,2,6410,Training & Development,HR,17646.62,OpEx,G&A
+2023-04-01,2023-04,2023,4,2,6420,Depreciation,Finance,24138.72,OpEx,G&A
+2023-05-01,2023-05,2023,5,2,4000,Product Sales Revenue,Sales,674325.66,Revenue,Revenue
+2023-05-01,2023-05,2023,5,2,4100,Service Revenue,Sales,359860.52,Revenue,Revenue
+2023-05-01,2023-05,2023,5,2,4200,Subscription Revenue,Sales,211022.87,Revenue,Revenue
+2023-05-01,2023-05,2023,5,2,4900,Other Revenue,Finance,50291.46,Revenue,Revenue
+2023-05-01,2023-05,2023,5,2,5000,Cost of Products Sold,Operations,304395.09,COGS,COGS
+2023-05-01,2023-05,2023,5,2,5100,Direct Labor,Operations,151169.03,COGS,COGS
+2023-05-01,2023-05,2023,5,2,5200,Manufacturing Overhead,Operations,55258.12,COGS,COGS
+2023-05-01,2023-05,2023,5,2,6000,Salaries - Sales,Sales,162437.36,OpEx,Sales & Marketing
+2023-05-01,2023-05,2023,5,2,6010,Commissions,Sales,91905.72,OpEx,Sales & Marketing
+2023-05-01,2023-05,2023,5,2,6020,Marketing Expenses,Marketing,105335.56,OpEx,Sales & Marketing
+2023-05-01,2023-05,2023,5,2,6030,Advertising,Marketing,66104.2,OpEx,Sales & Marketing
+2023-05-01,2023-05,2023,5,2,6100,Salaries - Admin,Finance,138434.6,OpEx,G&A
+2023-05-01,2023-05,2023,5,2,6110,Office Rent,Finance,52946.64,OpEx,G&A
+2023-05-01,2023-05,2023,5,2,6120,Utilities,Finance,11132.55,OpEx,G&A
+2023-05-01,2023-05,2023,5,2,6130,Office Supplies,Finance,5914.53,OpEx,G&A
+2023-05-01,2023-05,2023,5,2,6140,Insurance,Finance,14355.68,OpEx,G&A
+2023-05-01,2023-05,2023,5,2,6150,Professional Fees,Finance,28602.13,OpEx,G&A
+2023-05-01,2023-05,2023,5,2,6200,IT Software & Licenses,IT,43330.4,OpEx,Technology
+2023-05-01,2023-05,2023,5,2,6210,IT Salaries,IT,94658.77,OpEx,Technology
+2023-05-01,2023-05,2023,5,2,6220,Cloud Services,IT,36691.41,OpEx,Technology
+2023-05-01,2023-05,2023,5,2,6300,R&D Salaries,R&D,108211.55,OpEx,R&D
+2023-05-01,2023-05,2023,5,2,6310,R&D Materials,R&D,37655.29,OpEx,R&D
+2023-05-01,2023-05,2023,5,2,6400,Travel & Entertainment,Sales,23639.32,OpEx,G&A
+2023-05-01,2023-05,2023,5,2,6410,Training & Development,HR,18249.73,OpEx,G&A
+2023-05-01,2023-05,2023,5,2,6420,Depreciation,Finance,25922.95,OpEx,G&A
+2023-06-01,2023-06,2023,6,2,4000,Product Sales Revenue,Sales,819899.49,Revenue,Revenue
+2023-06-01,2023-06,2023,6,2,4100,Service Revenue,Sales,390008.74,Revenue,Revenue
+2023-06-01,2023-06,2023,6,2,4200,Subscription Revenue,Sales,220552.3,Revenue,Revenue
+2023-06-01,2023-06,2023,6,2,4900,Other Revenue,Finance,52193.55,Revenue,Revenue
+2023-06-01,2023-06,2023,6,2,5000,Cost of Products Sold,Operations,354554.43,COGS,COGS
+2023-06-01,2023-06,2023,6,2,5100,Direct Labor,Operations,181118.49,COGS,COGS
+2023-06-01,2023-06,2023,6,2,5200,Manufacturing Overhead,Operations,62507.93,COGS,COGS
+2023-06-01,2023-06,2023,6,2,6000,Salaries - Sales,Sales,182337.51,OpEx,Sales & Marketing
+2023-06-01,2023-06,2023,6,2,6010,Commissions,Sales,84611.99,OpEx,Sales & Marketing
+2023-06-01,2023-06,2023,6,2,6020,Marketing Expenses,Marketing,159222.75,OpEx,Sales & Marketing
+2023-06-01,2023-06,2023,6,2,6030,Advertising,Marketing,84498.26,OpEx,Sales & Marketing
+2023-06-01,2023-06,2023,6,2,6100,Salaries - Admin,Finance,141512.14,OpEx,G&A
+2023-06-01,2023-06,2023,6,2,6110,Office Rent,Finance,72288.55,OpEx,G&A
+2023-06-01,2023-06,2023,6,2,6120,Utilities,Finance,8574.55,OpEx,G&A
+2023-06-01,2023-06,2023,6,2,6130,Office Supplies,Finance,6368.93,OpEx,G&A
+2023-06-01,2023-06,2023,6,2,6140,Insurance,Finance,13108.77,OpEx,G&A
+2023-06-01,2023-06,2023,6,2,6150,Professional Fees,Finance,30441.13,OpEx,G&A
+2023-06-01,2023-06,2023,6,2,6200,IT Software & Licenses,IT,38975.9,OpEx,Technology
+2023-06-01,2023-06,2023,6,2,6210,IT Salaries,IT,96385.37,OpEx,Technology
+2023-06-01,2023-06,2023,6,2,6220,Cloud Services,IT,30768.91,OpEx,Technology
+2023-06-01,2023-06,2023,6,2,6300,R&D Salaries,R&D,135453.42,OpEx,R&D
+2023-06-01,2023-06,2023,6,2,6310,R&D Materials,R&D,35272.03,OpEx,R&D
+2023-06-01,2023-06,2023,6,2,6400,Travel & Entertainment,Sales,21783.88,OpEx,G&A
+2023-06-01,2023-06,2023,6,2,6410,Training & Development,HR,17527.82,OpEx,G&A
+2023-06-01,2023-06,2023,6,2,6420,Depreciation,Finance,23871.76,OpEx,G&A
+2023-07-01,2023-07,2023,7,3,4000,Product Sales Revenue,Sales,822816.92,Revenue,Revenue
+2023-07-01,2023-07,2023,7,3,4100,Service Revenue,Sales,419651.84,Revenue,Revenue
+2023-07-01,2023-07,2023,7,3,4200,Subscription Revenue,Sales,203489.56,Revenue,Revenue
+2023-07-01,2023-07,2023,7,3,4900,Other Revenue,Finance,51807.86,Revenue,Revenue
+2023-07-01,2023-07,2023,7,3,5000,Cost of Products Sold,Operations,378679.65,COGS,COGS
+2023-07-01,2023-07,2023,7,3,5100,Direct Labor,Operations,191062.3,COGS,COGS
+2023-07-01,2023-07,2023,7,3,5200,Manufacturing Overhead,Operations,59510.51,COGS,COGS
+2023-07-01,2023-07,2023,7,3,6000,Salaries - Sales,Sales,179018.48,OpEx,Sales & Marketing
+2023-07-01,2023-07,2023,7,3,6010,Commissions,Sales,91138.25,OpEx,Sales & Marketing
+2023-07-01,2023-07,2023,7,3,6020,Marketing Expenses,Marketing,118824.22,OpEx,Sales & Marketing
+2023-07-01,2023-07,2023,7,3,6030,Advertising,Marketing,95205.53,OpEx,Sales & Marketing
+2023-07-01,2023-07,2023,7,3,6100,Salaries - Admin,Finance,145027.45,OpEx,G&A
+2023-07-01,2023-07,2023,7,3,6110,Office Rent,Finance,52929.94,OpEx,G&A
+2023-07-01,2023-07,2023,7,3,6120,Utilities,Finance,8750.53,OpEx,G&A
+2023-07-01,2023-07,2023,7,3,6130,Office Supplies,Finance,7991.54,OpEx,G&A
+2023-07-01,2023-07,2023,7,3,6140,Insurance,Finance,13071.97,OpEx,G&A
+2023-07-01,2023-07,2023,7,3,6150,Professional Fees,Finance,32624.81,OpEx,G&A
+2023-07-01,2023-07,2023,7,3,6200,IT Software & Licenses,IT,43583.3,OpEx,Technology
+2023-07-01,2023-07,2023,7,3,6210,IT Salaries,IT,97082.09,OpEx,Technology
+2023-07-01,2023-07,2023,7,3,6220,Cloud Services,IT,36064.53,OpEx,Technology
+2023-07-01,2023-07,2023,7,3,6300,R&D Salaries,R&D,122901.14,OpEx,R&D
+2023-07-01,2023-07,2023,7,3,6310,R&D Materials,R&D,33646.49,OpEx,R&D
+2023-07-01,2023-07,2023,7,3,6400,Travel & Entertainment,Sales,24406.02,OpEx,G&A
+2023-07-01,2023-07,2023,7,3,6410,Training & Development,HR,20229.33,OpEx,G&A
+2023-07-01,2023-07,2023,7,3,6420,Depreciation,Finance,26616.73,OpEx,G&A
+2023-08-01,2023-08,2023,8,3,4000,Product Sales Revenue,Sales,755175.87,Revenue,Revenue
+2023-08-01,2023-08,2023,8,3,4100,Service Revenue,Sales,402342.27,Revenue,Revenue
+2023-08-01,2023-08,2023,8,3,4200,Subscription Revenue,Sales,217474.99,Revenue,Revenue
+2023-08-01,2023-08,2023,8,3,4900,Other Revenue,Finance,56285.65,Revenue,Revenue
+2023-08-01,2023-08,2023,8,3,5000,Cost of Products Sold,Operations,370862.16,COGS,COGS
+2023-08-01,2023-08,2023,8,3,5100,Direct Labor,Operations,171130.08,COGS,COGS
+2023-08-01,2023-08,2023,8,3,5200,Manufacturing Overhead,Operations,62863.9,COGS,COGS
+2023-08-01,2023-08,2023,8,3,6000,Salaries - Sales,Sales,166508.14,OpEx,Sales & Marketing
+2023-08-01,2023-08,2023,8,3,6010,Commissions,Sales,92798.89,OpEx,Sales & Marketing
+2023-08-01,2023-08,2023,8,3,6020,Marketing Expenses,Marketing,95606.37,OpEx,Sales & Marketing
+2023-08-01,2023-08,2023,8,3,6030,Advertising,Marketing,97181.67,OpEx,Sales & Marketing
+2023-08-01,2023-08,2023,8,3,6100,Salaries - Admin,Finance,137345.91,OpEx,G&A
+2023-08-01,2023-08,2023,8,3,6110,Office Rent,Finance,48431.67,OpEx,G&A
+2023-08-01,2023-08,2023,8,3,6120,Utilities,Finance,10122.39,OpEx,G&A
+2023-08-01,2023-08,2023,8,3,6130,Office Supplies,Finance,5314.26,OpEx,G&A
+2023-08-01,2023-08,2023,8,3,6140,Insurance,Finance,13066.61,OpEx,G&A
+2023-08-01,2023-08,2023,8,3,6150,Professional Fees,Finance,26426.29,OpEx,G&A
+2023-08-01,2023-08,2023,8,3,6200,IT Software & Licenses,IT,50352.33,OpEx,Technology
+2023-08-01,2023-08,2023,8,3,6210,IT Salaries,IT,107066.98,OpEx,Technology
+2023-08-01,2023-08,2023,8,3,6220,Cloud Services,IT,32834.3,OpEx,Technology
+2023-08-01,2023-08,2023,8,3,6300,R&D Salaries,R&D,174463.34,OpEx,R&D
+2023-08-01,2023-08,2023,8,3,6310,R&D Materials,R&D,44521.54,OpEx,R&D
+2023-08-01,2023-08,2023,8,3,6400,Travel & Entertainment,Sales,17228.26,OpEx,G&A
+2023-08-01,2023-08,2023,8,3,6410,Training & Development,HR,17827.23,OpEx,G&A
+2023-08-01,2023-08,2023,8,3,6420,Depreciation,Finance,24799.59,OpEx,G&A
+2023-09-01,2023-09,2023,9,3,4000,Product Sales Revenue,Sales,697312.54,Revenue,Revenue
+2023-09-01,2023-09,2023,9,3,4100,Service Revenue,Sales,447811.1,Revenue,Revenue
+2023-09-01,2023-09,2023,9,3,4200,Subscription Revenue,Sales,225108.68,Revenue,Revenue
+2023-09-01,2023-09,2023,9,3,4900,Other Revenue,Finance,51051.12,Revenue,Revenue
+2023-09-01,2023-09,2023,9,3,5000,Cost of Products Sold,Operations,337670.78,COGS,COGS
+2023-09-01,2023-09,2023,9,3,5100,Direct Labor,Operations,180765.4,COGS,COGS
+2023-09-01,2023-09,2023,9,3,5200,Manufacturing Overhead,Operations,55041.41,COGS,COGS
+2023-09-01,2023-09,2023,9,3,6000,Salaries - Sales,Sales,180488.72,OpEx,Sales & Marketing
+2023-09-01,2023-09,2023,9,3,6010,Commissions,Sales,81515.38,OpEx,Sales & Marketing
+2023-09-01,2023-09,2023,9,3,6020,Marketing Expenses,Marketing,119721.33,OpEx,Sales & Marketing
+2023-09-01,2023-09,2023,9,3,6030,Advertising,Marketing,94349.32,OpEx,Sales & Marketing
+2023-09-01,2023-09,2023,9,3,6100,Salaries - Admin,Finance,141918.69,OpEx,G&A
+2023-09-01,2023-09,2023,9,3,6110,Office Rent,Finance,70376.45,OpEx,G&A
+2023-09-01,2023-09,2023,9,3,6120,Utilities,Finance,9397.28,OpEx,G&A
+2023-09-01,2023-09,2023,9,3,6130,Office Supplies,Finance,6209.52,OpEx,G&A
+2023-09-01,2023-09,2023,9,3,6140,Insurance,Finance,13403.59,OpEx,G&A
+2023-09-01,2023-09,2023,9,3,6150,Professional Fees,Finance,36271.2,OpEx,G&A
+2023-09-01,2023-09,2023,9,3,6200,IT Software & Licenses,IT,51913.26,OpEx,Technology
+2023-09-01,2023-09,2023,9,3,6210,IT Salaries,IT,104162.6,OpEx,Technology
+2023-09-01,2023-09,2023,9,3,6220,Cloud Services,IT,45460.09,OpEx,Technology
+2023-09-01,2023-09,2023,9,3,6300,R&D Salaries,R&D,134968.15,OpEx,R&D
+2023-09-01,2023-09,2023,9,3,6310,R&D Materials,R&D,44257.19,OpEx,R&D
+2023-09-01,2023-09,2023,9,3,6400,Travel & Entertainment,Sales,18027.69,OpEx,G&A
+2023-09-01,2023-09,2023,9,3,6410,Training & Development,HR,18538.98,OpEx,G&A
+2023-09-01,2023-09,2023,9,3,6420,Depreciation,Finance,26101.29,OpEx,G&A
+2023-10-01,2023-10,2023,10,4,4000,Product Sales Revenue,Sales,733873.54,Revenue,Revenue
+2023-10-01,2023-10,2023,10,4,4100,Service Revenue,Sales,448818.12,Revenue,Revenue
+2023-10-01,2023-10,2023,10,4,4200,Subscription Revenue,Sales,218271.19,Revenue,Revenue
+2023-10-01,2023-10,2023,10,4,4900,Other Revenue,Finance,56378.85,Revenue,Revenue
+2023-10-01,2023-10,2023,10,4,5000,Cost of Products Sold,Operations,399772.83,COGS,COGS
+2023-10-01,2023-10,2023,10,4,5100,Direct Labor,Operations,176511.06,COGS,COGS
+2023-10-01,2023-10,2023,10,4,5200,Manufacturing Overhead,Operations,66203.17,COGS,COGS
+2023-10-01,2023-10,2023,10,4,6000,Salaries - Sales,Sales,163524.28,OpEx,Sales & Marketing
+2023-10-01,2023-10,2023,10,4,6010,Commissions,Sales,132440.76,OpEx,Sales & Marketing
+2023-10-01,2023-10,2023,10,4,6020,Marketing Expenses,Marketing,109901.75,OpEx,Sales & Marketing
+2023-10-01,2023-10,2023,10,4,6030,Advertising,Marketing,97603.19,OpEx,Sales & Marketing
+2023-10-01,2023-10,2023,10,4,6100,Salaries - Admin,Finance,144374.6,OpEx,G&A
+2023-10-01,2023-10,2023,10,4,6110,Office Rent,Finance,54764.85,OpEx,G&A
+2023-10-01,2023-10,2023,10,4,6120,Utilities,Finance,9617.31,OpEx,G&A
+2023-10-01,2023-10,2023,10,4,6130,Office Supplies,Finance,4940.29,OpEx,G&A
+2023-10-01,2023-10,2023,10,4,6140,Insurance,Finance,13507.6,OpEx,G&A
+2023-10-01,2023-10,2023,10,4,6150,Professional Fees,Finance,31651.79,OpEx,G&A
+2023-10-01,2023-10,2023,10,4,6200,IT Software & Licenses,IT,75001.5,OpEx,Technology
+2023-10-01,2023-10,2023,10,4,6210,IT Salaries,IT,106517.21,OpEx,Technology
+2023-10-01,2023-10,2023,10,4,6220,Cloud Services,IT,30715.89,OpEx,Technology
+2023-10-01,2023-10,2023,10,4,6300,R&D Salaries,R&D,121326.02,OpEx,R&D
+2023-10-01,2023-10,2023,10,4,6310,R&D Materials,R&D,44352.82,OpEx,R&D
+2023-10-01,2023-10,2023,10,4,6400,Travel & Entertainment,Sales,21405.5,OpEx,G&A
+2023-10-01,2023-10,2023,10,4,6410,Training & Development,HR,14945.59,OpEx,G&A
+2023-10-01,2023-10,2023,10,4,6420,Depreciation,Finance,26325.95,OpEx,G&A
+2023-11-01,2023-11,2023,11,4,4000,Product Sales Revenue,Sales,941104.06,Revenue,Revenue
+2023-11-01,2023-11,2023,11,4,4100,Service Revenue,Sales,461001.47,Revenue,Revenue
+2023-11-01,2023-11,2023,11,4,4200,Subscription Revenue,Sales,228921.63,Revenue,Revenue
+2023-11-01,2023-11,2023,11,4,4900,Other Revenue,Finance,52971.82,Revenue,Revenue
+2023-11-01,2023-11,2023,11,4,5000,Cost of Products Sold,Operations,453436.8,COGS,COGS
+2023-11-01,2023-11,2023,11,4,5100,Direct Labor,Operations,200832.96,COGS,COGS
+2023-11-01,2023-11,2023,11,4,5200,Manufacturing Overhead,Operations,75626.9,COGS,COGS
+2023-11-01,2023-11,2023,11,4,6000,Salaries - Sales,Sales,177266.14,OpEx,Sales & Marketing
+2023-11-01,2023-11,2023,11,4,6010,Commissions,Sales,91754.67,OpEx,Sales & Marketing
+2023-11-01,2023-11,2023,11,4,6020,Marketing Expenses,Marketing,119249.74,OpEx,Sales & Marketing
+2023-11-01,2023-11,2023,11,4,6030,Advertising,Marketing,91574.97,OpEx,Sales & Marketing
+2023-11-01,2023-11,2023,11,4,6100,Salaries - Admin,Finance,131869.87,OpEx,G&A
+2023-11-01,2023-11,2023,11,4,6110,Office Rent,Finance,52606.86,OpEx,G&A
+2023-11-01,2023-11,2023,11,4,6120,Utilities,Finance,9668.6,OpEx,G&A
+2023-11-01,2023-11,2023,11,4,6130,Office Supplies,Finance,5307.7,OpEx,G&A
+2023-11-01,2023-11,2023,11,4,6140,Insurance,Finance,13124.55,OpEx,G&A
+2023-11-01,2023-11,2023,11,4,6150,Professional Fees,Finance,29059.49,OpEx,G&A
+2023-11-01,2023-11,2023,11,4,6200,IT Software & Licenses,IT,48389.9,OpEx,Technology
+2023-11-01,2023-11,2023,11,4,6210,IT Salaries,IT,111835.7,OpEx,Technology
+2023-11-01,2023-11,2023,11,4,6220,Cloud Services,IT,34728.15,OpEx,Technology
+2023-11-01,2023-11,2023,11,4,6300,R&D Salaries,R&D,120494.24,OpEx,R&D
+2023-11-01,2023-11,2023,11,4,6310,R&D Materials,R&D,46953.57,OpEx,R&D
+2023-11-01,2023-11,2023,11,4,6400,Travel & Entertainment,Sales,20044.01,OpEx,G&A
+2023-11-01,2023-11,2023,11,4,6410,Training & Development,HR,14792.33,OpEx,G&A
+2023-11-01,2023-11,2023,11,4,6420,Depreciation,Finance,25094.0,OpEx,G&A
+2023-12-01,2023-12,2023,12,4,4000,Product Sales Revenue,Sales,997883.33,Revenue,Revenue
+2023-12-01,2023-12,2023,12,4,4100,Service Revenue,Sales,479583.85,Revenue,Revenue
+2023-12-01,2023-12,2023,12,4,4200,Subscription Revenue,Sales,245443.11,Revenue,Revenue
+2023-12-01,2023-12,2023,12,4,4900,Other Revenue,Finance,54284.1,Revenue,Revenue
+2023-12-01,2023-12,2023,12,4,5000,Cost of Products Sold,Operations,440310.3,COGS,COGS
+2023-12-01,2023-12,2023,12,4,5100,Direct Labor,Operations,244263.32,COGS,COGS
+2023-12-01,2023-12,2023,12,4,5200,Manufacturing Overhead,Operations,75079.51,COGS,COGS
+2023-12-01,2023-12,2023,12,4,6000,Salaries - Sales,Sales,239076.33,OpEx,Sales & Marketing
+2023-12-01,2023-12,2023,12,4,6010,Commissions,Sales,85468.61,OpEx,Sales & Marketing
+2023-12-01,2023-12,2023,12,4,6020,Marketing Expenses,Marketing,107689.58,OpEx,Sales & Marketing
+2023-12-01,2023-12,2023,12,4,6030,Advertising,Marketing,84264.04,OpEx,Sales & Marketing
+2023-12-01,2023-12,2023,12,4,6100,Salaries - Admin,Finance,175286.41,OpEx,G&A
+2023-12-01,2023-12,2023,12,4,6110,Office Rent,Finance,49328.8,OpEx,G&A
+2023-12-01,2023-12,2023,12,4,6120,Utilities,Finance,9728.56,OpEx,G&A
+2023-12-01,2023-12,2023,12,4,6130,Office Supplies,Finance,5215.89,OpEx,G&A
+2023-12-01,2023-12,2023,12,4,6140,Insurance,Finance,13408.39,OpEx,G&A
+2023-12-01,2023-12,2023,12,4,6150,Professional Fees,Finance,29176.02,OpEx,G&A
+2023-12-01,2023-12,2023,12,4,6200,IT Software & Licenses,IT,40994.8,OpEx,Technology
+2023-12-01,2023-12,2023,12,4,6210,IT Salaries,IT,106200.65,OpEx,Technology
+2023-12-01,2023-12,2023,12,4,6220,Cloud Services,IT,39537.83,OpEx,Technology
+2023-12-01,2023-12,2023,12,4,6300,R&D Salaries,R&D,122867.4,OpEx,R&D
+2023-12-01,2023-12,2023,12,4,6310,R&D Materials,R&D,42320.24,OpEx,R&D
+2023-12-01,2023-12,2023,12,4,6400,Travel & Entertainment,Sales,22106.94,OpEx,G&A
+2023-12-01,2023-12,2023,12,4,6410,Training & Development,HR,16730.02,OpEx,G&A
+2023-12-01,2023-12,2023,12,4,6420,Depreciation,Finance,27539.11,OpEx,G&A
+2024-01-01,2024-01,2024,1,1,4000,Product Sales Revenue,Sales,518554.41,Revenue,Revenue
+2024-01-01,2024-01,2024,1,1,4100,Service Revenue,Sales,392354.8,Revenue,Revenue
+2024-01-01,2024-01,2024,1,1,4200,Subscription Revenue,Sales,184646.86,Revenue,Revenue
+2024-01-01,2024-01,2024,1,1,4900,Other Revenue,Finance,52086.73,Revenue,Revenue
+2024-01-01,2024-01,2024,1,1,5000,Cost of Products Sold,Operations,267351.08,COGS,COGS
+2024-01-01,2024-01,2024,1,1,5100,Direct Labor,Operations,146708.85,COGS,COGS
+2024-01-01,2024-01,2024,1,1,5200,Manufacturing Overhead,Operations,46920.64,COGS,COGS
+2024-01-01,2024-01,2024,1,1,6000,Salaries - Sales,Sales,173606.91,OpEx,Sales & Marketing
+2024-01-01,2024-01,2024,1,1,6010,Commissions,Sales,93916.56,OpEx,Sales & Marketing
+2024-01-01,2024-01,2024,1,1,6020,Marketing Expenses,Marketing,130646.45,OpEx,Sales & Marketing
+2024-01-01,2024-01,2024,1,1,6030,Advertising,Marketing,90919.04,OpEx,Sales & Marketing
+2024-01-01,2024-01,2024,1,1,6100,Salaries - Admin,Finance,139435.23,OpEx,G&A
+2024-01-01,2024-01,2024,1,1,6110,Office Rent,Finance,51593.39,OpEx,G&A
+2024-01-01,2024-01,2024,1,1,6120,Utilities,Finance,9299.4,OpEx,G&A
+2024-01-01,2024-01,2024,1,1,6130,Office Supplies,Finance,6689.2,OpEx,G&A
+2024-01-01,2024-01,2024,1,1,6140,Insurance,Finance,13885.39,OpEx,G&A
+2024-01-01,2024-01,2024,1,1,6150,Professional Fees,Finance,26273.91,OpEx,G&A
+2024-01-01,2024-01,2024,1,1,6200,IT Software & Licenses,IT,42170.9,OpEx,Technology
+2024-01-01,2024-01,2024,1,1,6210,IT Salaries,IT,123474.9,OpEx,Technology
+2024-01-01,2024-01,2024,1,1,6220,Cloud Services,IT,34752.9,OpEx,Technology
+2024-01-01,2024-01,2024,1,1,6300,R&D Salaries,R&D,122491.21,OpEx,R&D
+2024-01-01,2024-01,2024,1,1,6310,R&D Materials,R&D,41638.02,OpEx,R&D
+2024-01-01,2024-01,2024,1,1,6400,Travel & Entertainment,Sales,23545.55,OpEx,G&A
+2024-01-01,2024-01,2024,1,1,6410,Training & Development,HR,16960.04,OpEx,G&A
+2024-01-01,2024-01,2024,1,1,6420,Depreciation,Finance,22967.82,OpEx,G&A
+2024-02-01,2024-02,2024,2,1,4000,Product Sales Revenue,Sales,545556.09,Revenue,Revenue
+2024-02-01,2024-02,2024,2,1,4100,Service Revenue,Sales,371093.37,Revenue,Revenue
+2024-02-01,2024-02,2024,2,1,4200,Subscription Revenue,Sales,187495.28,Revenue,Revenue
+2024-02-01,2024-02,2024,2,1,4900,Other Revenue,Finance,54184.48,Revenue,Revenue
+2024-02-01,2024-02,2024,2,1,5000,Cost of Products Sold,Operations,273249.26,COGS,COGS
+2024-02-01,2024-02,2024,2,1,5100,Direct Labor,Operations,147681.86,COGS,COGS
+2024-02-01,2024-02,2024,2,1,5200,Manufacturing Overhead,Operations,46999.32,COGS,COGS
+2024-02-01,2024-02,2024,2,1,6000,Salaries - Sales,Sales,176136.53,OpEx,Sales & Marketing
+2024-02-01,2024-02,2024,2,1,6010,Commissions,Sales,96276.11,OpEx,Sales & Marketing
+2024-02-01,2024-02,2024,2,1,6020,Marketing Expenses,Marketing,120310.78,OpEx,Sales & Marketing
+2024-02-01,2024-02,2024,2,1,6030,Advertising,Marketing,79335.87,OpEx,Sales & Marketing
+2024-02-01,2024-02,2024,2,1,6100,Salaries - Admin,Finance,125351.16,OpEx,G&A
+2024-02-01,2024-02,2024,2,1,6110,Office Rent,Finance,49306.92,OpEx,G&A
+2024-02-01,2024-02,2024,2,1,6120,Utilities,Finance,9006.97,OpEx,G&A
+2024-02-01,2024-02,2024,2,1,6130,Office Supplies,Finance,5333.26,OpEx,G&A
+2024-02-01,2024-02,2024,2,1,6140,Insurance,Finance,12810.97,OpEx,G&A
+2024-02-01,2024-02,2024,2,1,6150,Professional Fees,Finance,28627.96,OpEx,G&A
+2024-02-01,2024-02,2024,2,1,6200,IT Software & Licenses,IT,51689.59,OpEx,Technology
+2024-02-01,2024-02,2024,2,1,6210,IT Salaries,IT,105855.79,OpEx,Technology
+2024-02-01,2024-02,2024,2,1,6220,Cloud Services,IT,30558.43,OpEx,Technology
+2024-02-01,2024-02,2024,2,1,6300,R&D Salaries,R&D,119282.88,OpEx,R&D
+2024-02-01,2024-02,2024,2,1,6310,R&D Materials,R&D,36254.1,OpEx,R&D
+2024-02-01,2024-02,2024,2,1,6400,Travel & Entertainment,Sales,23079.59,OpEx,G&A
+2024-02-01,2024-02,2024,2,1,6410,Training & Development,HR,17905.66,OpEx,G&A
+2024-02-01,2024-02,2024,2,1,6420,Depreciation,Finance,23209.61,OpEx,G&A
+2024-03-01,2024-03,2024,3,1,4000,Product Sales Revenue,Sales,630050.69,Revenue,Revenue
+2024-03-01,2024-03,2024,3,1,4100,Service Revenue,Sales,384629.55,Revenue,Revenue
+2024-03-01,2024-03,2024,3,1,4200,Subscription Revenue,Sales,205936.91,Revenue,Revenue
+2024-03-01,2024-03,2024,3,1,4900,Other Revenue,Finance,54048.33,Revenue,Revenue
+2024-03-01,2024-03,2024,3,1,5000,Cost of Products Sold,Operations,297412.82,COGS,COGS
+2024-03-01,2024-03,2024,3,1,5100,Direct Labor,Operations,156130.84,COGS,COGS
+2024-03-01,2024-03,2024,3,1,5200,Manufacturing Overhead,Operations,53538.16,COGS,COGS
+2024-03-01,2024-03,2024,3,1,6000,Salaries - Sales,Sales,160904.66,OpEx,Sales & Marketing
+2024-03-01,2024-03,2024,3,1,6010,Commissions,Sales,84447.17,OpEx,Sales & Marketing
+2024-03-01,2024-03,2024,3,1,6020,Marketing Expenses,Marketing,95548.76,OpEx,Sales & Marketing
+2024-03-01,2024-03,2024,3,1,6030,Advertising,Marketing,90627.93,OpEx,Sales & Marketing
+2024-03-01,2024-03,2024,3,1,6100,Salaries - Admin,Finance,130931.22,OpEx,G&A
+2024-03-01,2024-03,2024,3,1,6110,Office Rent,Finance,47858.9,OpEx,G&A
+2024-03-01,2024-03,2024,3,1,6120,Utilities,Finance,9109.22,OpEx,G&A
+2024-03-01,2024-03,2024,3,1,6130,Office Supplies,Finance,5961.89,OpEx,G&A
+2024-03-01,2024-03,2024,3,1,6140,Insurance,Finance,14170.66,OpEx,G&A
+2024-03-01,2024-03,2024,3,1,6150,Professional Fees,Finance,24285.12,OpEx,G&A
+2024-03-01,2024-03,2024,3,1,6200,IT Software & Licenses,IT,43766.44,OpEx,Technology
+2024-03-01,2024-03,2024,3,1,6210,IT Salaries,IT,93111.96,OpEx,Technology
+2024-03-01,2024-03,2024,3,1,6220,Cloud Services,IT,45123.36,OpEx,Technology
+2024-03-01,2024-03,2024,3,1,6300,R&D Salaries,R&D,128382.24,OpEx,R&D
+2024-03-01,2024-03,2024,3,1,6310,R&D Materials,R&D,33773.48,OpEx,R&D
+2024-03-01,2024-03,2024,3,1,6400,Travel & Entertainment,Sales,21824.39,OpEx,G&A
+2024-03-01,2024-03,2024,3,1,6410,Training & Development,HR,14330.23,OpEx,G&A
+2024-03-01,2024-03,2024,3,1,6420,Depreciation,Finance,24602.19,OpEx,G&A
+2024-04-01,2024-04,2024,4,2,4000,Product Sales Revenue,Sales,658556.25,Revenue,Revenue
+2024-04-01,2024-04,2024,4,2,4100,Service Revenue,Sales,404218.1,Revenue,Revenue
+2024-04-01,2024-04,2024,4,2,4200,Subscription Revenue,Sales,210402.62,Revenue,Revenue
+2024-04-01,2024-04,2024,4,2,4900,Other Revenue,Finance,55576.33,Revenue,Revenue
+2024-04-01,2024-04,2024,4,2,5000,Cost of Products Sold,Operations,317655.26,COGS,COGS
+2024-04-01,2024-04,2024,4,2,5100,Direct Labor,Operations,170142.65,COGS,COGS
+2024-04-01,2024-04,2024,4,2,5200,Manufacturing Overhead,Operations,50884.95,COGS,COGS
+2024-04-01,2024-04,2024,4,2,6000,Salaries - Sales,Sales,178768.01,OpEx,Sales & Marketing
+2024-04-01,2024-04,2024,4,2,6010,Commissions,Sales,87901.54,OpEx,Sales & Marketing
+2024-04-01,2024-04,2024,4,2,6020,Marketing Expenses,Marketing,119821.01,OpEx,Sales & Marketing
+2024-04-01,2024-04,2024,4,2,6030,Advertising,Marketing,81603.63,OpEx,Sales & Marketing
+2024-04-01,2024-04,2024,4,2,6100,Salaries - Admin,Finance,204576.76,OpEx,G&A
+2024-04-01,2024-04,2024,4,2,6110,Office Rent,Finance,70246.38,OpEx,G&A
+2024-04-01,2024-04,2024,4,2,6120,Utilities,Finance,13361.96,OpEx,G&A
+2024-04-01,2024-04,2024,4,2,6130,Office Supplies,Finance,4523.99,OpEx,G&A
+2024-04-01,2024-04,2024,4,2,6140,Insurance,Finance,12633.64,OpEx,G&A
+2024-04-01,2024-04,2024,4,2,6150,Professional Fees,Finance,23557.14,OpEx,G&A
+2024-04-01,2024-04,2024,4,2,6200,IT Software & Licenses,IT,39653.72,OpEx,Technology
+2024-04-01,2024-04,2024,4,2,6210,IT Salaries,IT,105425.89,OpEx,Technology
+2024-04-01,2024-04,2024,4,2,6220,Cloud Services,IT,33430.49,OpEx,Technology
+2024-04-01,2024-04,2024,4,2,6300,R&D Salaries,R&D,128988.28,OpEx,R&D
+2024-04-01,2024-04,2024,4,2,6310,R&D Materials,R&D,40542.89,OpEx,R&D
+2024-04-01,2024-04,2024,4,2,6400,Travel & Entertainment,Sales,19921.58,OpEx,G&A
+2024-04-01,2024-04,2024,4,2,6410,Training & Development,HR,17511.77,OpEx,G&A
+2024-04-01,2024-04,2024,4,2,6420,Depreciation,Finance,25371.0,OpEx,G&A
+2024-05-01,2024-05,2024,5,2,4000,Product Sales Revenue,Sales,643188.4,Revenue,Revenue
+2024-05-01,2024-05,2024,5,2,4100,Service Revenue,Sales,389142.45,Revenue,Revenue
+2024-05-01,2024-05,2024,5,2,4200,Subscription Revenue,Sales,214766.44,Revenue,Revenue
+2024-05-01,2024-05,2024,5,2,4900,Other Revenue,Finance,50279.55,Revenue,Revenue
+2024-05-01,2024-05,2024,5,2,5000,Cost of Products Sold,Operations,345700.21,COGS,COGS
+2024-05-01,2024-05,2024,5,2,5100,Direct Labor,Operations,172342.13,COGS,COGS
+2024-05-01,2024-05,2024,5,2,5200,Manufacturing Overhead,Operations,54896.82,COGS,COGS
+2024-05-01,2024-05,2024,5,2,6000,Salaries - Sales,Sales,159021.42,OpEx,Sales & Marketing
+2024-05-01,2024-05,2024,5,2,6010,Commissions,Sales,91325.77,OpEx,Sales & Marketing
+2024-05-01,2024-05,2024,5,2,6020,Marketing Expenses,Marketing,105448.2,OpEx,Sales & Marketing
+2024-05-01,2024-05,2024,5,2,6030,Advertising,Marketing,63274.18,OpEx,Sales & Marketing
+2024-05-01,2024-05,2024,5,2,6100,Salaries - Admin,Finance,132758.33,OpEx,G&A
+2024-05-01,2024-05,2024,5,2,6110,Office Rent,Finance,50508.17,OpEx,G&A
+2024-05-01,2024-05,2024,5,2,6120,Utilities,Finance,12052.2,OpEx,G&A
+2024-05-01,2024-05,2024,5,2,6130,Office Supplies,Finance,6000.6,OpEx,G&A
+2024-05-01,2024-05,2024,5,2,6140,Insurance,Finance,14070.79,OpEx,G&A
+2024-05-01,2024-05,2024,5,2,6150,Professional Fees,Finance,27818.59,OpEx,G&A
+2024-05-01,2024-05,2024,5,2,6200,IT Software & Licenses,IT,44075.92,OpEx,Technology
+2024-05-01,2024-05,2024,5,2,6210,IT Salaries,IT,99819.78,OpEx,Technology
+2024-05-01,2024-05,2024,5,2,6220,Cloud Services,IT,37290.17,OpEx,Technology
+2024-05-01,2024-05,2024,5,2,6300,R&D Salaries,R&D,108532.37,OpEx,R&D
+2024-05-01,2024-05,2024,5,2,6310,R&D Materials,R&D,37615.22,OpEx,R&D
+2024-05-01,2024-05,2024,5,2,6400,Travel & Entertainment,Sales,23810.66,OpEx,G&A
+2024-05-01,2024-05,2024,5,2,6410,Training & Development,HR,16993.87,OpEx,G&A
+2024-05-01,2024-05,2024,5,2,6420,Depreciation,Finance,25655.71,OpEx,G&A
+2024-06-01,2024-06,2024,6,2,4000,Product Sales Revenue,Sales,762721.65,Revenue,Revenue
+2024-06-01,2024-06,2024,6,2,4100,Service Revenue,Sales,420508.54,Revenue,Revenue
+2024-06-01,2024-06,2024,6,2,4200,Subscription Revenue,Sales,224699.42,Revenue,Revenue
+2024-06-01,2024-06,2024,6,2,4900,Other Revenue,Finance,52346.91,Revenue,Revenue
+2024-06-01,2024-06,2024,6,2,5000,Cost of Products Sold,Operations,343987.97,COGS,COGS
+2024-06-01,2024-06,2024,6,2,5100,Direct Labor,Operations,180203.76,COGS,COGS
+2024-06-01,2024-06,2024,6,2,5200,Manufacturing Overhead,Operations,62843.47,COGS,COGS
+2024-06-01,2024-06,2024,6,2,6000,Salaries - Sales,Sales,163065.18,OpEx,Sales & Marketing
+2024-06-01,2024-06,2024,6,2,6010,Commissions,Sales,82880.73,OpEx,Sales & Marketing
+2024-06-01,2024-06,2024,6,2,6020,Marketing Expenses,Marketing,164265.01,OpEx,Sales & Marketing
+2024-06-01,2024-06,2024,6,2,6030,Advertising,Marketing,88398.19,OpEx,Sales & Marketing
+2024-06-01,2024-06,2024,6,2,6100,Salaries - Admin,Finance,129383.8,OpEx,G&A
+2024-06-01,2024-06,2024,6,2,6110,Office Rent,Finance,77535.73,OpEx,G&A
+2024-06-01,2024-06,2024,6,2,6120,Utilities,Finance,9637.16,OpEx,G&A
+2024-06-01,2024-06,2024,6,2,6130,Office Supplies,Finance,6202.33,OpEx,G&A
+2024-06-01,2024-06,2024,6,2,6140,Insurance,Finance,13010.37,OpEx,G&A
+2024-06-01,2024-06,2024,6,2,6150,Professional Fees,Finance,33540.91,OpEx,G&A
+2024-06-01,2024-06,2024,6,2,6200,IT Software & Licenses,IT,38663.53,OpEx,Technology
+2024-06-01,2024-06,2024,6,2,6210,IT Salaries,IT,108665.82,OpEx,Technology
+2024-06-01,2024-06,2024,6,2,6220,Cloud Services,IT,33067.19,OpEx,Technology
+2024-06-01,2024-06,2024,6,2,6300,R&D Salaries,R&D,121752.93,OpEx,R&D
+2024-06-01,2024-06,2024,6,2,6310,R&D Materials,R&D,37583.0,OpEx,R&D
+2024-06-01,2024-06,2024,6,2,6400,Travel & Entertainment,Sales,21981.62,OpEx,G&A
+2024-06-01,2024-06,2024,6,2,6410,Training & Development,HR,17115.86,OpEx,G&A
+2024-06-01,2024-06,2024,6,2,6420,Depreciation,Finance,24385.44,OpEx,G&A
+2024-07-01,2024-07,2024,7,3,4000,Product Sales Revenue,Sales,782484.33,Revenue,Revenue
+2024-07-01,2024-07,2024,7,3,4100,Service Revenue,Sales,382941.18,Revenue,Revenue
+2024-07-01,2024-07,2024,7,3,4200,Subscription Revenue,Sales,213047.28,Revenue,Revenue
+2024-07-01,2024-07,2024,7,3,4900,Other Revenue,Finance,56042.73,Revenue,Revenue
+2024-07-01,2024-07,2024,7,3,5000,Cost of Products Sold,Operations,346075.71,COGS,COGS
+2024-07-01,2024-07,2024,7,3,5100,Direct Labor,Operations,183501.91,COGS,COGS
+2024-07-01,2024-07,2024,7,3,5200,Manufacturing Overhead,Operations,58266.07,COGS,COGS
+2024-07-01,2024-07,2024,7,3,6000,Salaries - Sales,Sales,183143.29,OpEx,Sales & Marketing
+2024-07-01,2024-07,2024,7,3,6010,Commissions,Sales,90631.26,OpEx,Sales & Marketing
+2024-07-01,2024-07,2024,7,3,6020,Marketing Expenses,Marketing,118477.91,OpEx,Sales & Marketing
+2024-07-01,2024-07,2024,7,3,6030,Advertising,Marketing,98426.68,OpEx,Sales & Marketing
+2024-07-01,2024-07,2024,7,3,6100,Salaries - Admin,Finance,130941.78,OpEx,G&A
+2024-07-01,2024-07,2024,7,3,6110,Office Rent,Finance,48562.81,OpEx,G&A
+2024-07-01,2024-07,2024,7,3,6120,Utilities,Finance,8198.38,OpEx,G&A
+2024-07-01,2024-07,2024,7,3,6130,Office Supplies,Finance,7999.81,OpEx,G&A
+2024-07-01,2024-07,2024,7,3,6140,Insurance,Finance,13283.73,OpEx,G&A
+2024-07-01,2024-07,2024,7,3,6150,Professional Fees,Finance,35894.16,OpEx,G&A
+2024-07-01,2024-07,2024,7,3,6200,IT Software & Licenses,IT,44982.48,OpEx,Technology
+2024-07-01,2024-07,2024,7,3,6210,IT Salaries,IT,98009.41,OpEx,Technology
+2024-07-01,2024-07,2024,7,3,6220,Cloud Services,IT,35240.92,OpEx,Technology
+2024-07-01,2024-07,2024,7,3,6300,R&D Salaries,R&D,129459.56,OpEx,R&D
+2024-07-01,2024-07,2024,7,3,6310,R&D Materials,R&D,34221.37,OpEx,R&D
+2024-07-01,2024-07,2024,7,3,6400,Travel & Entertainment,Sales,21727.32,OpEx,G&A
+2024-07-01,2024-07,2024,7,3,6410,Training & Development,HR,17854.9,OpEx,G&A
+2024-07-01,2024-07,2024,7,3,6420,Depreciation,Finance,25915.3,OpEx,G&A
+2024-08-01,2024-08,2024,8,3,4000,Product Sales Revenue,Sales,721055.65,Revenue,Revenue
+2024-08-01,2024-08,2024,8,3,4100,Service Revenue,Sales,420936.77,Revenue,Revenue
+2024-08-01,2024-08,2024,8,3,4200,Subscription Revenue,Sales,231950.39,Revenue,Revenue
+2024-08-01,2024-08,2024,8,3,4900,Other Revenue,Finance,56662.12,Revenue,Revenue
+2024-08-01,2024-08,2024,8,3,5000,Cost of Products Sold,Operations,365023.51,COGS,COGS
+2024-08-01,2024-08,2024,8,3,5100,Direct Labor,Operations,189974.97,COGS,COGS
+2024-08-01,2024-08,2024,8,3,5200,Manufacturing Overhead,Operations,57500.13,COGS,COGS
+2024-08-01,2024-08,2024,8,3,6000,Salaries - Sales,Sales,163651.13,OpEx,Sales & Marketing
+2024-08-01,2024-08,2024,8,3,6010,Commissions,Sales,93448.94,OpEx,Sales & Marketing
+2024-08-01,2024-08,2024,8,3,6020,Marketing Expenses,Marketing,88928.31,OpEx,Sales & Marketing
+2024-08-01,2024-08,2024,8,3,6030,Advertising,Marketing,96314.98,OpEx,Sales & Marketing
+2024-08-01,2024-08,2024,8,3,6100,Salaries - Admin,Finance,144428.73,OpEx,G&A
+2024-08-01,2024-08,2024,8,3,6110,Office Rent,Finance,48038.6,OpEx,G&A
+2024-08-01,2024-08,2024,8,3,6120,Utilities,Finance,9062.04,OpEx,G&A
+2024-08-01,2024-08,2024,8,3,6130,Office Supplies,Finance,5464.53,OpEx,G&A
+2024-08-01,2024-08,2024,8,3,6140,Insurance,Finance,14692.86,OpEx,G&A
+2024-08-01,2024-08,2024,8,3,6150,Professional Fees,Finance,24331.12,OpEx,G&A
+2024-08-01,2024-08,2024,8,3,6200,IT Software & Licenses,IT,47254.67,OpEx,Technology
+2024-08-01,2024-08,2024,8,3,6210,IT Salaries,IT,94857.29,OpEx,Technology
+2024-08-01,2024-08,2024,8,3,6220,Cloud Services,IT,29795.01,OpEx,Technology
+2024-08-01,2024-08,2024,8,3,6300,R&D Salaries,R&D,182736.14,OpEx,R&D
+2024-08-01,2024-08,2024,8,3,6310,R&D Materials,R&D,47200.66,OpEx,R&D
+2024-08-01,2024-08,2024,8,3,6400,Travel & Entertainment,Sales,17008.09,OpEx,G&A
+2024-08-01,2024-08,2024,8,3,6410,Training & Development,HR,19264.02,OpEx,G&A
+2024-08-01,2024-08,2024,8,3,6420,Depreciation,Finance,25784.88,OpEx,G&A
+2024-09-01,2024-09,2024,9,3,4000,Product Sales Revenue,Sales,761634.57,Revenue,Revenue
+2024-09-01,2024-09,2024,9,3,4100,Service Revenue,Sales,430761.05,Revenue,Revenue
+2024-09-01,2024-09,2024,9,3,4200,Subscription Revenue,Sales,225758.71,Revenue,Revenue
+2024-09-01,2024-09,2024,9,3,4900,Other Revenue,Finance,54296.75,Revenue,Revenue
+2024-09-01,2024-09,2024,9,3,5000,Cost of Products Sold,Operations,360686.08,COGS,COGS
+2024-09-01,2024-09,2024,9,3,5100,Direct Labor,Operations,166760.68,COGS,COGS
+2024-09-01,2024-09,2024,9,3,5200,Manufacturing Overhead,Operations,54645.03,COGS,COGS
+2024-09-01,2024-09,2024,9,3,6000,Salaries - Sales,Sales,166840.62,OpEx,Sales & Marketing
+2024-09-01,2024-09,2024,9,3,6010,Commissions,Sales,84016.71,OpEx,Sales & Marketing
+2024-09-01,2024-09,2024,9,3,6020,Marketing Expenses,Marketing,114823.96,OpEx,Sales & Marketing
+2024-09-01,2024-09,2024,9,3,6030,Advertising,Marketing,95453.12,OpEx,Sales & Marketing
+2024-09-01,2024-09,2024,9,3,6100,Salaries - Admin,Finance,144798.12,OpEx,G&A
+2024-09-01,2024-09,2024,9,3,6110,Office Rent,Finance,67701.88,OpEx,G&A
+2024-09-01,2024-09,2024,9,3,6120,Utilities,Finance,9390.02,OpEx,G&A
+2024-09-01,2024-09,2024,9,3,6130,Office Supplies,Finance,6099.73,OpEx,G&A
+2024-09-01,2024-09,2024,9,3,6140,Insurance,Finance,14624.29,OpEx,G&A
+2024-09-01,2024-09,2024,9,3,6150,Professional Fees,Finance,32743.24,OpEx,G&A
+2024-09-01,2024-09,2024,9,3,6200,IT Software & Licenses,IT,51150.29,OpEx,Technology
+2024-09-01,2024-09,2024,9,3,6210,IT Salaries,IT,106839.2,OpEx,Technology
+2024-09-01,2024-09,2024,9,3,6220,Cloud Services,IT,46055.13,OpEx,Technology
+2024-09-01,2024-09,2024,9,3,6300,R&D Salaries,R&D,131518.4,OpEx,R&D
+2024-09-01,2024-09,2024,9,3,6310,R&D Materials,R&D,42929.87,OpEx,R&D
+2024-09-01,2024-09,2024,9,3,6400,Travel & Entertainment,Sales,17476.66,OpEx,G&A
+2024-09-01,2024-09,2024,9,3,6410,Training & Development,HR,18991.02,OpEx,G&A
+2024-09-01,2024-09,2024,9,3,6420,Depreciation,Finance,25693.66,OpEx,G&A
+2024-10-01,2024-10,2024,10,4,4000,Product Sales Revenue,Sales,671778.36,Revenue,Revenue
+2024-10-01,2024-10,2024,10,4,4100,Service Revenue,Sales,460107.03,Revenue,Revenue
+2024-10-01,2024-10,2024,10,4,4200,Subscription Revenue,Sales,236121.77,Revenue,Revenue
+2024-10-01,2024-10,2024,10,4,4900,Other Revenue,Finance,54781.81,Revenue,Revenue
+2024-10-01,2024-10,2024,10,4,5000,Cost of Products Sold,Operations,363365.91,COGS,COGS
+2024-10-01,2024-10,2024,10,4,5100,Direct Labor,Operations,193978.52,COGS,COGS
+2024-10-01,2024-10,2024,10,4,5200,Manufacturing Overhead,Operations,62208.76,COGS,COGS
+2024-10-01,2024-10,2024,10,4,6000,Salaries - Sales,Sales,176742.54,OpEx,Sales & Marketing
+2024-10-01,2024-10,2024,10,4,6010,Commissions,Sales,127902.06,OpEx,Sales & Marketing
+2024-10-01,2024-10,2024,10,4,6020,Marketing Expenses,Marketing,108571.42,OpEx,Sales & Marketing
+2024-10-01,2024-10,2024,10,4,6030,Advertising,Marketing,110207.77,OpEx,Sales & Marketing
+2024-10-01,2024-10,2024,10,4,6100,Salaries - Admin,Finance,128834.34,OpEx,G&A
+2024-10-01,2024-10,2024,10,4,6110,Office Rent,Finance,55873.37,OpEx,G&A
+2024-10-01,2024-10,2024,10,4,6120,Utilities,Finance,9475.93,OpEx,G&A
+2024-10-01,2024-10,2024,10,4,6130,Office Supplies,Finance,5613.86,OpEx,G&A
+2024-10-01,2024-10,2024,10,4,6140,Insurance,Finance,14518.26,OpEx,G&A
+2024-10-01,2024-10,2024,10,4,6150,Professional Fees,Finance,31424.49,OpEx,G&A
+2024-10-01,2024-10,2024,10,4,6200,IT Software & Licenses,IT,72512.53,OpEx,Technology
+2024-10-01,2024-10,2024,10,4,6210,IT Salaries,IT,110290.0,OpEx,Technology
+2024-10-01,2024-10,2024,10,4,6220,Cloud Services,IT,31388.32,OpEx,Technology
+2024-10-01,2024-10,2024,10,4,6300,R&D Salaries,R&D,115980.54,OpEx,R&D
+2024-10-01,2024-10,2024,10,4,6310,R&D Materials,R&D,45176.26,OpEx,R&D
+2024-10-01,2024-10,2024,10,4,6400,Travel & Entertainment,Sales,21489.76,OpEx,G&A
+2024-10-01,2024-10,2024,10,4,6410,Training & Development,HR,16466.31,OpEx,G&A
+2024-10-01,2024-10,2024,10,4,6420,Depreciation,Finance,26462.46,OpEx,G&A
+2024-11-01,2024-11,2024,11,4,4000,Product Sales Revenue,Sales,926636.46,Revenue,Revenue
+2024-11-01,2024-11,2024,11,4,4100,Service Revenue,Sales,451830.01,Revenue,Revenue
+2024-11-01,2024-11,2024,11,4,4200,Subscription Revenue,Sales,221319.84,Revenue,Revenue
+2024-11-01,2024-11,2024,11,4,4900,Other Revenue,Finance,52301.62,Revenue,Revenue
+2024-11-01,2024-11,2024,11,4,5000,Cost of Products Sold,Operations,395627.62,COGS,COGS
+2024-11-01,2024-11,2024,11,4,5100,Direct Labor,Operations,207762.93,COGS,COGS
+2024-11-01,2024-11,2024,11,4,5200,Manufacturing Overhead,Operations,69689.9,COGS,COGS
+2024-11-01,2024-11,2024,11,4,6000,Salaries - Sales,Sales,169901.2,OpEx,Sales & Marketing
+2024-11-01,2024-11,2024,11,4,6010,Commissions,Sales,100751.15,OpEx,Sales & Marketing
+2024-11-01,2024-11,2024,11,4,6020,Marketing Expenses,Marketing,120824.23,OpEx,Sales & Marketing
+2024-11-01,2024-11,2024,11,4,6030,Advertising,Marketing,88200.45,OpEx,Sales & Marketing
+2024-11-01,2024-11,2024,11,4,6100,Salaries - Admin,Finance,135376.28,OpEx,G&A
+2024-11-01,2024-11,2024,11,4,6110,Office Rent,Finance,51017.6,OpEx,G&A
+2024-11-01,2024-11,2024,11,4,6120,Utilities,Finance,9496.9,OpEx,G&A
+2024-11-01,2024-11,2024,11,4,6130,Office Supplies,Finance,4889.66,OpEx,G&A
+2024-11-01,2024-11,2024,11,4,6140,Insurance,Finance,14272.0,OpEx,G&A
+2024-11-01,2024-11,2024,11,4,6150,Professional Fees,Finance,28239.42,OpEx,G&A
+2024-11-01,2024-11,2024,11,4,6200,IT Software & Licenses,IT,46045.52,OpEx,Technology
+2024-11-01,2024-11,2024,11,4,6210,IT Salaries,IT,104095.59,OpEx,Technology
+2024-11-01,2024-11,2024,11,4,6220,Cloud Services,IT,32914.68,OpEx,Technology
+2024-11-01,2024-11,2024,11,4,6300,R&D Salaries,R&D,134163.8,OpEx,R&D
+2024-11-01,2024-11,2024,11,4,6310,R&D Materials,R&D,45369.95,OpEx,R&D
+2024-11-01,2024-11,2024,11,4,6400,Travel & Entertainment,Sales,21477.17,OpEx,G&A
+2024-11-01,2024-11,2024,11,4,6410,Training & Development,HR,14800.52,OpEx,G&A
+2024-11-01,2024-11,2024,11,4,6420,Depreciation,Finance,25160.48,OpEx,G&A
+2024-12-01,2024-12,2024,12,4,4000,Product Sales Revenue,Sales,982020.18,Revenue,Revenue
+2024-12-01,2024-12,2024,12,4,4100,Service Revenue,Sales,454497.63,Revenue,Revenue
+2024-12-01,2024-12,2024,12,4,4200,Subscription Revenue,Sales,241835.85,Revenue,Revenue
+2024-12-01,2024-12,2024,12,4,4900,Other Revenue,Finance,54986.35,Revenue,Revenue
+2024-12-01,2024-12,2024,12,4,5000,Cost of Products Sold,Operations,462587.75,COGS,COGS
+2024-12-01,2024-12,2024,12,4,5100,Direct Labor,Operations,236524.65,COGS,COGS
+2024-12-01,2024-12,2024,12,4,5200,Manufacturing Overhead,Operations,79375.84,COGS,COGS
+2024-12-01,2024-12,2024,12,4,6000,Salaries - Sales,Sales,248475.44,OpEx,Sales & Marketing
+2024-12-01,2024-12,2024,12,4,6010,Commissions,Sales,95886.19,OpEx,Sales & Marketing
+2024-12-01,2024-12,2024,12,4,6020,Marketing Expenses,Marketing,95957.32,OpEx,Sales & Marketing
+2024-12-01,2024-12,2024,12,4,6030,Advertising,Marketing,78293.45,OpEx,Sales & Marketing
+2024-12-01,2024-12,2024,12,4,6100,Salaries - Admin,Finance,169584.3,OpEx,G&A
+2024-12-01,2024-12,2024,12,4,6110,Office Rent,Finance,53673.66,OpEx,G&A
+2024-12-01,2024-12,2024,12,4,6120,Utilities,Finance,10030.29,OpEx,G&A
+2024-12-01,2024-12,2024,12,4,6130,Office Supplies,Finance,4909.09,OpEx,G&A
+2024-12-01,2024-12,2024,12,4,6140,Insurance,Finance,14735.26,OpEx,G&A
+2024-12-01,2024-12,2024,12,4,6150,Professional Fees,Finance,25608.84,OpEx,G&A
+2024-12-01,2024-12,2024,12,4,6200,IT Software & Licenses,IT,45947.37,OpEx,Technology
+2024-12-01,2024-12,2024,12,4,6210,IT Salaries,IT,104933.72,OpEx,Technology
+2024-12-01,2024-12,2024,12,4,6220,Cloud Services,IT,34961.93,OpEx,Technology
+2024-12-01,2024-12,2024,12,4,6300,R&D Salaries,R&D,124070.85,OpEx,R&D
+2024-12-01,2024-12,2024,12,4,6310,R&D Materials,R&D,40002.96,OpEx,R&D
+2024-12-01,2024-12,2024,12,4,6400,Travel & Entertainment,Sales,21736.72,OpEx,G&A
+2024-12-01,2024-12,2024,12,4,6410,Training & Development,HR,16813.76,OpEx,G&A
+2024-12-01,2024-12,2024,12,4,6420,Depreciation,Finance,26858.09,OpEx,G&A

@@ -1,0 +1,26 @@
+AccountCode,Account_Name,Account_Type,AccountCategory
+4000,Product Sales Revenue,Revenue,Revenue
+4100,Service Revenue,Revenue,Revenue
+4200,Subscription Revenue,Revenue,Revenue
+4900,Other Revenue,Revenue,Revenue
+5000,Cost of Products Sold,COGS,COGS
+5100,Direct Labor,COGS,COGS
+5200,Manufacturing Overhead,COGS,COGS
+6000,Salaries - Sales,OpEx,Sales & Marketing
+6010,Commissions,OpEx,Sales & Marketing
+6020,Marketing Expenses,OpEx,Sales & Marketing
+6030,Advertising,OpEx,Sales & Marketing
+6100,Salaries - Admin,OpEx,G&A
+6110,Office Rent,OpEx,G&A
+6120,Utilities,OpEx,G&A
+6130,Office Supplies,OpEx,G&A
+6140,Insurance,OpEx,G&A
+6150,Professional Fees,OpEx,G&A
+6200,IT Software & Licenses,OpEx,Technology
+6210,IT Salaries,OpEx,Technology
+6220,Cloud Services,OpEx,Technology
+6300,R&D Salaries,OpEx,R&D
+6310,R&D Materials,OpEx,R&D
+6400,Travel & Entertainment,OpEx,G&A
+6410,Training & Development,OpEx,G&A
+6420,Depreciation,OpEx,G&A

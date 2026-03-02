@@ -1,0 +1,11 @@
+department,cost_center
+Sales,CC-S001
+Sales,CC-S002
+Marketing,CC-M001
+Operations,CC-O001
+Operations,CC-O002
+Operations,CC-O003
+IT,CC-I001
+Finance,CC-F001
+HR,CC-H001
+R&D,CC-R001
