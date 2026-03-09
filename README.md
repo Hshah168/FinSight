@@ -18,5 +18,14 @@ FinSight
 
 ## Snippets
 
-1. FinSight Dashboard
-![DashBoard](https://github.com/Hshah168/FinSight/blob/master/FinSight_Dashboard_Template.pbix)
+Update: version 2
+
+![Executive Dashboard](https://github.com/Hshah168/FinSight/blob/master/images\v2\FinSight_Dashboard_v2_executive_dashboard.png)
+
+![Variance Analysis](https://github.com/Hshah168/FinSight/blob/master/images\v2\FinSight_Dashboard_v2_variance_analysis.png)
+
+![Account Analysis](https://github.com/Hshah168/FinSight/blob/master/images\v2\FinSight_Dashboard_v2_account_analysis.png)
+
+Initial version
+
+![DashBoard v1](https://github.com/Hshah168/FinSight/blob/master/images\v1\FinSight_Dashboard_v1.png)
